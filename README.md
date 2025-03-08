@@ -19,7 +19,7 @@
 - **Cloud Storage**: Cloudinary
 - **Deployment**: 
   - **Frontend**: GitHub Pages
-  - **Backend**: Railway
+  - **Backend**: Railway / Render
 
 ---
 
